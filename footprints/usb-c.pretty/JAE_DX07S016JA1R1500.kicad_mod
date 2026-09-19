@@ -473,7 +473,7 @@
 		(uuid "39de05ce-c257-4533-87cd-8495324e0dde")
 	)
 	(embedded_fonts no)
-	(model "${KIPRJMOD}/lib/3dmodels/usb-c.3dshapes/usb-c.step"
+	(model "${SHARED_KICAD_LIB}/3dmodels/usb-c.3dshapes/usb-c.STEP"
 		(offset
 			(xyz 0 -2 0)
 		)

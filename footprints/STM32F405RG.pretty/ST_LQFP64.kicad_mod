@@ -550,7 +550,7 @@
 		(uuid "7767cc42-9e06-44c9-8277-118200d00f30")
 	)
 	(embedded_fonts no)
-	(model "${KIPRJMOD}/lib/3dmodels/STM32F405RG.3dshapes/STM32F405RG.step"
+	(model "${SHARED_KICAD_LIB}/3dmodels/STM32F405RG.3dshapes/STM32F405RG.STEP"
 		(offset
 			(xyz 0 0 0)
 		)

@@ -207,7 +207,7 @@
 		(uuid "10d4e49c-09e1-46cb-8bb9-0b1b12044f53")
 	)
 	(embedded_fonts no)
-	(model "${KIPRJMOD}/lib/3dmodels/buckConverterBOB.3dshapes/buckConverterBOB.step"
+	(model "${SHARED_KICAD_LIB}/3dmodels/buckConverterBOB.3dshapes/buckConverterBOB.STEP"
 		(offset
 			(xyz -9.75 -9.5 6.5)
 		)

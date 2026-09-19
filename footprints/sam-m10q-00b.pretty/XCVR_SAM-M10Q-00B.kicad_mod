@@ -1564,7 +1564,7 @@
 		(uuid "6e440411-6a11-4edb-b135-402b666ad645")
 	)
 	(embedded_fonts no)
-	(model "${KIPRJMOD}/lib/3dmodels/sam-m10q-00b.3dshapes/sam-m10q-00b.STEP"
+	(model "${SHARED_KICAD_LIB}/3dmodels/sam-m10q-00b.3dshapes/sam-m10q-00b.STEP"
 		(offset
 			(xyz 0 0 0)
 		)

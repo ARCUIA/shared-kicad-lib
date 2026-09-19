@@ -828,7 +828,7 @@
 		(uuid "2df9fb6c-8130-4176-a51d-58e226620252")
 	)
 	(embedded_fonts no)
-	(model "${KIPRJMOD}/lib/3dmodels/NPM1300.3dshapes/NPM1300.STEP"
+	(model "${SHARED_KICAD_LIB}/3dmodels/NPM1300.3dshapes/NPM1300.STEP"
 		(offset
 			(xyz 0 0 0)
 		)

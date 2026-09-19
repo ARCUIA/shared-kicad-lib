@@ -284,7 +284,7 @@
 		(uuid "bcc5b1ee-0fff-4b6b-938e-53d5ae5d4317")
 	)
 	(embedded_fonts no)
-	(model "${KIPRJMOD}/lib/3dmodels/ZDSD16GLGIAG.3dshapes/ZDSD16GLGIAG.step"
+	(model "${SHARED_KICAD_LIB}/3dmodels/ZDSD16GLGIAG.3dshapes/ZDSD16GLGIAG.STEP"
 		(offset
 			(xyz -1.65 0.5 0)
 		)

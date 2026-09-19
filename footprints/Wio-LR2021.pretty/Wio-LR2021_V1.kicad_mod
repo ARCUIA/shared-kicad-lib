@@ -395,7 +395,7 @@
 		(uuid "b5277ae4-a5a8-41d0-92bc-a0fe50150aec")
 	)
 	(embedded_fonts no)
-	(model "${KIPRJMOD}/lib/3dmodels/Wio-LR2021.3dshapes/Wio-LR2021.step"
+	(model "${SHARED_KICAD_LIB}/3dmodels/Wio-LR2021.3dshapes/Wio-LR2021.STEP"
 		(offset
 			(xyz -54.5 50.75 -1.5)
 		)

@@ -194,7 +194,7 @@
 		(uuid "f9b52b1e-d1e4-4e43-a7dd-fbcfe66949ac")
 	)
 	(embedded_fonts no)
-	(model "${KIPRJMOD}/lib/3dmodels/GWLA01.3dshapes/GWLA01.STEP"
+	(model "${SHARED_KICAD_LIB}/3dmodels/GWLA01.3dshapes/GWLA01.STEP"
 		(offset
 			(xyz 0 0 0.21)
 		)

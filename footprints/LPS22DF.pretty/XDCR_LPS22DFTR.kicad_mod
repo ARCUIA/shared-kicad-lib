@@ -493,7 +493,7 @@
 		(uuid "10ce7ed7-6259-4b08-bd36-148c59096f01")
 	)
 	(embedded_fonts no)
-	(model "${KIPRJMOD}/lib/3dmodels/LPS22DF.3dshapes/LPS22DF.step"
+	(model "${SHARED_KICAD_LIB}/3dmodels/LPS22DF.3dshapes/LPS22DF.STEP"
 		(offset
 			(xyz 0 0 0)
 		)

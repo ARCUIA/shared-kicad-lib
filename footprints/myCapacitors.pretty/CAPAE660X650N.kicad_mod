@@ -197,7 +197,7 @@
 		(uuid "fdd6dc80-cf9d-45c9-a5a8-6116d09b06d1")
 	)
 	(embedded_fonts no)
-	(model "${KIPRJMOD}/lib/3dmodels/myCapacitors.3dshapes/myCapacitors.stp"
+	(model "${SHARED_KICAD_LIB}/3dmodels/myCapacitors.3dshapes/myCapacitors.STEP"
 		(offset
 			(xyz 0 0 0)
 		)
@@ -208,7 +208,7 @@
 			(xyz 0 0 0)
 		)
 	)
-	(model "${KIPRJMOD}/lib/3dmodels/myCapacitors.3dshapes/myCapacitors.stp"
+	(model "${SHARED_KICAD_LIB}/3dmodels/myCapacitors.3dshapes/myCapacitors.STEP"
 		(offset
 			(xyz 0 0 0)
 		)
