@@ -1,0 +1,12 @@
+(fp_lib_table
+  (lib (name "buckConverterBOB")(type "KiCad")(uri "${KIPRJMOD}/lib/footprints/buckConverterBOB.pretty")(options "")(descr ""))
+  (lib (name "GWLA01")(type "KiCad")(uri "${KIPRJMOD}/lib/footprints/GWLA01.pretty")(options "")(descr ""))
+  (lib (name "LPS22DF")(type "KiCad")(uri "${KIPRJMOD}/lib/footprints/LPS22DF.pretty")(options "")(descr ""))
+  (lib (name "myCapacitors")(type "KiCad")(uri "${KIPRJMOD}/lib/footprints/myCapacitors.pretty")(options "")(descr ""))
+  (lib (name "NPM1300")(type "KiCad")(uri "${KIPRJMOD}/lib/footprints/NPM1300.pretty")(options "")(descr ""))
+  (lib (name "sam-m10q-00b")(type "KiCad")(uri "${KIPRJMOD}/lib/footprints/sam-m10q-00b.pretty")(options "")(descr ""))
+  (lib (name "STM32F405RG")(type "KiCad")(uri "${KIPRJMOD}/lib/footprints/STM32F405RG.pretty")(options "")(descr ""))
+  (lib (name "usb-c")(type "KiCad")(uri "${KIPRJMOD}/lib/footprints/usb-c.pretty")(options "")(descr ""))
+  (lib (name "Wio-LR2021")(type "KiCad")(uri "${KIPRJMOD}/lib/footprints/Wio-LR2021.pretty")(options "")(descr ""))
+  (lib (name "ZDSD16GLGIAG")(type "KiCad")(uri "${KIPRJMOD}/lib/footprints/ZDSD16GLGIAG.pretty")(options "")(descr ""))
+)
