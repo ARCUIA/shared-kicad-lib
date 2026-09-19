@@ -11,7 +11,7 @@ set -e
   for f in symbols/*.kicad_sym; do
     [ -e "$f" ] || continue
     n=$(basename "$f" .kicad_sym)
-    echo "        (lib (name \"$n\")(type \"KiCad\")(uri \"\${CLUB_KICAD_LIB}/symbols/$n.kicad_sym\")(options \"\")(descr \"\"))"
+    echo "        (lib (name \"$n\")(type \"KiCad\")(uri \"\${SHARED_KICAD_LIB}/symbols/$n.kicad_sym\")(options \"\")(descr \"\"))"
   done
   echo ")"
 } > sym-lib-table
@@ -22,7 +22,7 @@ set -e
   for d in footprints/*.pretty; do
     [ -e "$d" ] || continue
     n=$(basename "$d" .pretty)
-    echo "        (lib (name \"$n\")(type \"KiCad\")(uri \"\${CLUB_KICAD_LIB}/footprints/$n.pretty\")(options \"\")(descr \"\"))"
+    echo "        (lib (name \"$n\")(type \"KiCad\")(uri \"\${SHARED_KICAD_LIB}/footprints/$n.pretty\")(options \"\")(descr \"\"))"
   done
   echo ")"
 } > fp-lib-table
