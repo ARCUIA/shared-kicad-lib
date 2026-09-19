@@ -1,5 +1,6 @@
 (fp_lib_table
         (version 7)
+        (lib (name "APHBM2012LSURKZGKC_KNB")(type "KiCad")(uri "${SHARED_KICAD_LIB}/footprints/APHBM2012LSURKZGKC_KNB.pretty")(options "")(descr ""))
         (lib (name "GWLA01")(type "KiCad")(uri "${SHARED_KICAD_LIB}/footprints/GWLA01.pretty")(options "")(descr ""))
         (lib (name "LPS22DF")(type "KiCad")(uri "${SHARED_KICAD_LIB}/footprints/LPS22DF.pretty")(options "")(descr ""))
         (lib (name "NPM1300")(type "KiCad")(uri "${SHARED_KICAD_LIB}/footprints/NPM1300.pretty")(options "")(descr ""))
