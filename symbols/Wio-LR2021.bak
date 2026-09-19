@@ -64,6 +64,19 @@
 				)
 			)
 		)
+		(symbol "Wio-LR2021_V1_0_1"
+			(rectangle
+				(start -8.89 -17.78)
+				(end 10.16 15.24)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+		)
 		(symbol "Wio-LR2021_V1_1_0"
 			(pin passive line
 				(at -11.43 11.43 0)
@@ -459,20 +472,6 @@
 							(size 1.27 1.27)
 						)
 					)
-				)
-			)
-		)
-		(symbol "Wio-LR2021_V1_1_1"
-			(rectangle
-				(start -8.89 15.24)
-				(end 10.16 -17.78)
-				(stroke
-					(width 0)
-					(type solid)
-				)
-				(fill
-					(type color)
-					(color 255 255 194 1)
 				)
 			)
 		)
