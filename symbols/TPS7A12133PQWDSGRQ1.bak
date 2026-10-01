@@ -65,7 +65,7 @@
 		(symbol "TPS7A2133PQWDSGRQ1_1_1"
 			(rectangle
 				(start -5.08 5.08)
-				(end 7.62 -7.62)
+				(end 5.08 -5.08)
 				(stroke
 					(width 0)
 					(type solid)
@@ -76,7 +76,7 @@
 				)
 			)
 			(pin output line
-				(at 10.16 2.54 180)
+				(at 7.62 2.54 180)
 				(length 2.54)
 				(name "OUT"
 					(effects
@@ -94,7 +94,7 @@
 				)
 			)
 			(pin passive line
-				(at 10.16 -2.54 180)
+				(at 7.62 -2.54 180)
 				(length 2.54)
 				(hide yes)
 				(name ""
@@ -113,7 +113,7 @@
 				)
 			)
 			(pin passive line
-				(at 10.16 -2.54 180)
+				(at 7.62 -2.54 180)
 				(length 2.54)
 				(hide yes)
 				(name ""
@@ -132,7 +132,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 -10.16 90)
+				(at 0 -7.62 90)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -168,7 +168,7 @@
 				)
 			)
 			(pin passive line
-				(at 10.16 -2.54 180)
+				(at 7.62 -2.54 180)
 				(length 2.54)
 				(hide yes)
 				(name ""
@@ -187,7 +187,7 @@
 				)
 			)
 			(pin passive line
-				(at 10.16 -2.54 180)
+				(at 7.62 -2.54 180)
 				(length 2.54)
 				(hide yes)
 				(name ""
@@ -224,7 +224,7 @@
 				)
 			)
 			(pin passive line
-				(at 6.35 -10.16 90)
+				(at 2.54 -7.62 90)
 				(length 2.54)
 				(name "PAD"
 					(effects
