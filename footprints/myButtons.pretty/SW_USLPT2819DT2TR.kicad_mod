@@ -265,7 +265,7 @@
 		)
 	)
 	(embedded_fonts no)
-	(model "${SHARED_KICAD_LIB}/3dmodels/USLPT2819DT2TR.3dshapes/USLPT2819DT2TR.STEP"
+	(model "${SHARED_KICAD_LIB}/3dmodels/myButtons.3dshapes/myButtons.STEP"
 		(offset
 			(xyz 0 -0.25 0)
 		)
