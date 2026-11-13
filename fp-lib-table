@@ -6,6 +6,7 @@
         (lib (name "LPS22DF")(type "KiCad")(uri "${SHARED_KICAD_LIB}/footprints/LPS22DF.pretty")(options "")(descr ""))
         (lib (name "LSM6DSV80XTR")(type "KiCad")(uri "${SHARED_KICAD_LIB}/footprints/LSM6DSV80XTR.pretty")(options "")(descr ""))
         (lib (name "NPM1300")(type "KiCad")(uri "${SHARED_KICAD_LIB}/footprints/NPM1300.pretty")(options "")(descr ""))
+        (lib (name "PA4332.222NLT")(type "KiCad")(uri "${SHARED_KICAD_LIB}/footprints/PA4332.222NLT.pretty")(options "")(descr ""))
         (lib (name "STM32F405RG")(type "KiCad")(uri "${SHARED_KICAD_LIB}/footprints/STM32F405RG.pretty")(options "")(descr ""))
         (lib (name "TPS7A12133PQWDSGRQ1")(type "KiCad")(uri "${SHARED_KICAD_LIB}/footprints/TPS7A12133PQWDSGRQ1.pretty")(options "")(descr ""))
         (lib (name "VNQ7140AJTR")(type "KiCad")(uri "${SHARED_KICAD_LIB}/footprints/VNQ7140AJTR.pretty")(options "")(descr ""))
