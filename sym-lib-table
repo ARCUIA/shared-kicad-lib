@@ -17,6 +17,7 @@
         (lib (name "TPS7A12133PQWDSGRQ1")(type "KiCad")(uri "${SHARED_KICAD_LIB}/symbols/TPS7A12133PQWDSGRQ1.kicad_sym")(options "")(descr ""))
         (lib (name "VNQ7140AJTR")(type "KiCad")(uri "${SHARED_KICAD_LIB}/symbols/VNQ7140AJTR.kicad_sym")(options "")(descr ""))
         (lib (name "Wio-LR2021")(type "KiCad")(uri "${SHARED_KICAD_LIB}/symbols/Wio-LR2021.kicad_sym")(options "")(descr ""))
+        (lib (name "XT30PW-M")(type "KiCad")(uri "${SHARED_KICAD_LIB}/symbols/XT30PW-M.kicad_sym")(options "")(descr ""))
         (lib (name "buckConverterBOB")(type "KiCad")(uri "${SHARED_KICAD_LIB}/symbols/buckConverterBOB.kicad_sym")(options "")(descr ""))
         (lib (name "custom-pwr")(type "KiCad")(uri "${SHARED_KICAD_LIB}/symbols/custom-pwr.kicad_sym")(options "")(descr ""))
         (lib (name "myButtons")(type "KiCad")(uri "${SHARED_KICAD_LIB}/symbols/myButtons.kicad_sym")(options "")(descr ""))

@@ -13,6 +13,7 @@
         (lib (name "TPS7A12133PQWDSGRQ1")(type "KiCad")(uri "${SHARED_KICAD_LIB}/footprints/TPS7A12133PQWDSGRQ1.pretty")(options "")(descr ""))
         (lib (name "VNQ7140AJTR")(type "KiCad")(uri "${SHARED_KICAD_LIB}/footprints/VNQ7140AJTR.pretty")(options "")(descr ""))
         (lib (name "Wio-LR2021")(type "KiCad")(uri "${SHARED_KICAD_LIB}/footprints/Wio-LR2021.pretty")(options "")(descr ""))
+        (lib (name "XT30PW-M")(type "KiCad")(uri "${SHARED_KICAD_LIB}/footprints/XT30PW-M.pretty")(options "")(descr ""))
         (lib (name "ZDSD16GLGIAG")(type "KiCad")(uri "${SHARED_KICAD_LIB}/footprints/ZDSD16GLGIAG.pretty")(options "")(descr ""))
         (lib (name "buckConverterBOB")(type "KiCad")(uri "${SHARED_KICAD_LIB}/footprints/buckConverterBOB.pretty")(options "")(descr ""))
         (lib (name "coords")(type "KiCad")(uri "${SHARED_KICAD_LIB}/footprints/coords.pretty")(options "")(descr ""))
