@@ -20,6 +20,21 @@ Now Open KiCad 10 (Do not use 9 unless you want to treat this as read-only)
 Preferences -> Configure Paths...
 Hit '+' button bottom left
 add 'SHARED_KICAD_LIB' with the path to your repo. Mine is: /home/sam/git/shared-kicad-lib/ for example.
+
+Preferences -> Manage Symbol Libraries...
+Hit '+' button bottom left
+add 'Shared Kicad Lib' as nickname (do NOT include '')
+add '${SHARED_KICAD_LIB}/sym-lib-table' as Library path (do NOT include '')
+add 'Table' as library format
+hit ok
+
+Preferences -> Manage Footprint Libraries...
+Hit '+' button bottom left
+add 'Shared Kicad Lib' as nickname (do NOT include '')
+add '${SHARED_KICAD_LIB}/fp-lib-table' as Library path (do NOT include '')
+add 'Table' as library format
+hit ok
+
 ```
 You should now be able to use footprints provided in this repository.
 
