@@ -6,7 +6,7 @@ If you have not already created a directory for git repos:
 ```bash
 # On Bash / Terminal
 cd ~
-mkdir git
+mkdir -p git
 cd git
 ```
 Navigate to your git repo (you are already in it if you did steps above)
