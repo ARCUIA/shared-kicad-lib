@@ -4,6 +4,7 @@
         (lib (name "APHBM2012LSURKZGKC_KNB")(type "KiCad")(uri "${SHARED_KICAD_LIB}/symbols/APHBM2012LSURKZGKC_KNB.kicad_sym")(options "")(descr ""))
         (lib (name "CAS")(type "KiCad")(uri "${SHARED_KICAD_LIB}/symbols/CAS.kicad_sym")(options "")(descr ""))
         (lib (name "CAS_120TA")(type "KiCad")(uri "${SHARED_KICAD_LIB}/symbols/CAS_120TA.kicad_sym")(options "")(descr ""))
+        (lib (name "DM3AT-SF-PEJM5")(type "KiCad")(uri "${SHARED_KICAD_LIB}/symbols/DM3AT-SF-PEJM5.kicad_sym")(options "")(descr ""))
         (lib (name "ESP32-DEVKIT-V1")(type "KiCad")(uri "${SHARED_KICAD_LIB}/symbols/ESP32-DEVKIT-V1.kicad_sym")(options "")(descr ""))
         (lib (name "GWLA01")(type "KiCad")(uri "${SHARED_KICAD_LIB}/symbols/GWLA01.kicad_sym")(options "")(descr ""))
         (lib (name "HD44780")(type "KiCad")(uri "${SHARED_KICAD_LIB}/symbols/HD44780.kicad_sym")(options "")(descr ""))

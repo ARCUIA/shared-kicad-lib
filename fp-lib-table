@@ -2,6 +2,7 @@
         (version 7)
         (lib (name "AONS21303C")(type "KiCad")(uri "${SHARED_KICAD_LIB}/footprints/AONS21303C.pretty")(options "")(descr ""))
         (lib (name "APHBM2012LSURKZGKC_KNB")(type "KiCad")(uri "${SHARED_KICAD_LIB}/footprints/APHBM2012LSURKZGKC_KNB.pretty")(options "")(descr ""))
+        (lib (name "DM3AT-SF-PEJM5")(type "KiCad")(uri "${SHARED_KICAD_LIB}/footprints/DM3AT-SF-PEJM5.pretty")(options "")(descr ""))
         (lib (name "ESP32-DEVKIT-V1")(type "KiCad")(uri "${SHARED_KICAD_LIB}/footprints/ESP32-DEVKIT-V1.pretty")(options "")(descr ""))
         (lib (name "GWLA01")(type "KiCad")(uri "${SHARED_KICAD_LIB}/footprints/GWLA01.pretty")(options "")(descr ""))
         (lib (name "LPS22DF")(type "KiCad")(uri "${SHARED_KICAD_LIB}/footprints/LPS22DF.pretty")(options "")(descr ""))
